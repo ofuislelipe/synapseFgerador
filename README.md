@@ -1,7 +1,5 @@
 # Ferramenta de Mapeamento Automático de Ocorrências
 
-![Imagem de um robô a organizar documentos](https://placehold.co/800x300/2B303A/FFFFFF?text=Mapeamento+Autom%C3%A1tico&font=Inter)
-
 ## 📜 Visão Geral
 
 Esta é uma aplicação web desenvolvida em Python com Streamlit que automatiza o processo de classificação e mapeamento de ocorrências textuais. A ferramenta foi projetada para resolver um problema comum em áreas de atendimento, qualidade e operações: a necessidade de associar manualmente um grande volume de "Fatos Geradores" (descrições de eventos, reclamações, etc.) a uma lista padronizada de "Problemas".
